@@ -7,3 +7,4 @@ dependencies:
   - sklearn
   - numpy
   - matplotlib
+  - scipy
